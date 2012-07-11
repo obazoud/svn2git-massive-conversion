@@ -1,0 +1,9 @@
+# SVN connection
+svn_repo         : 'http://svn.apache.org/repos/asf'
+svn_path         : '/maven'
+svn_user         : 
+svn_password     : 
+svn_git_excludes : ^/(maven\/retired|maven\/doxia\/site|maven\/touchstone|maven\/project|maven\/maven\-1)$
+svn_git_tmp      : '/tmp/svn_git_oba'
+git_url          : 'git@github.com/obazoud'
+
